@@ -1,0 +1,8 @@
+streamlit
+google-generativeai
+langchain
+faiss-cpu
+tiktoken
+python-dotenv
+beautifulsoup4
+requests
