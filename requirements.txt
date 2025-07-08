@@ -1,8 +1,14 @@
 streamlit
 google-generativeai
 langchain
+langchain-community
+langchain-google-genai
+google-generativeai 
+langchain-groq
 faiss-cpu
 tiktoken
 python-dotenv
 beautifulsoup4
 requests
+sentence-transformers
+tf-keras
